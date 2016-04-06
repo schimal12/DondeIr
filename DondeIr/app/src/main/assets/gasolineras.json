@@ -1,0 +1,34 @@
+{
+  "pois": [
+    {
+      "categoria":"gasolinera",
+    "name": "Copilco",
+    "latitude": 19.3361584,
+    "longitude": -99.175479
+    },
+    {
+      "categoria":"gasolinera",
+      "name": "La Virgen",
+      "latitude": 19.3200301,
+      "longitude": -99.1160453
+    },
+    {
+      "categoria":"gasolinera",
+      "name": "Estadio Azteca",
+      "latitude": 19.3029942,
+      "longitude": -99.1489652
+    },
+    {
+      "categoria":"gasolinera",
+      "name": "Miramontes",
+      "latitude": 19.303039,
+      "longitude": -99.1642862
+    },
+    {
+      "categoria":"gasolinera",
+      "name": "Universidad",
+      "latitude": 19.3367611,
+      "longitude": -99.2032397
+    }
+  ]
+}

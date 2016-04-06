@@ -1,0 +1,39 @@
+{
+
+  "pois":[{
+    "categoria":"cines",
+    "name": "Cinepolis Acoxpa",
+    "latitude": 19.2987499 ,
+    "longitude": -99.1392943
+  },
+    {
+      "categoria":"cines",
+      "name": "Cinepolis Universidad",
+      "latitude":19.3668739 ,
+      "longitude":-99.1679034
+
+    },
+
+    {
+      "categoria":"cines",
+      "name": "Cinepolis Perisur",
+      "latitude": 19.3041395,
+      "longitude": -99.1921989
+    },
+
+    {
+      "categoria":"cines",
+      "name": "Cinepolis Patio Universidad",
+      "latitude": 19.3656557,
+      "longitude": -99.2017087
+    },
+
+    {
+      "categoria":"cines",
+      "name": "Cinepolis Oasis",
+      "latitude":19.365811 ,
+      "longitude": -99.2017088
+    }
+
+  ]
+}

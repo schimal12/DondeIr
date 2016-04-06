@@ -1,0 +1,34 @@
+{
+	"pois":[
+	{
+	  "categoria":"plazas",
+		"name":"Galerias Coapa",
+		"latitude":19.301407,
+		"longitude":-99.1228231
+	},
+	{
+	  "categoria":"plazas",
+		"name":"Acoxpa",
+		"latitude":19.29881,
+		"longitude":-99.1390047
+	},
+	{
+	  "categoria":"plazas",
+		"name":"Perisur",
+		"latitude":19.3041395,
+		"longitude":-99.1921989
+	},
+	{
+	  "categoria":"plazas",
+		"name":"Plaza Universidad",
+		"latitude":19.367087,
+		"longitude":-99.1680894
+	},
+	{
+	  "categoria":"plazas",
+		"name":"Galerias Insurgentes",
+		"latitude":19.3711031,
+		"longitude":-99.1790407
+	}
+	]
+}

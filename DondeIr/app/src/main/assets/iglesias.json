@@ -1,0 +1,35 @@
+{
+  "pois": [
+    {
+      "categoria":"iglesia",
+    "name":"Iglesia jardines del pedregal",
+    "latitude":19.325942,
+    "longitude": -99.201405
+  },
+    {
+      "categoria":"iglesia",
+      "name":"Iglesia Santa Ana",
+      "latitude":19.298540,
+      "longitude": -99.036924
+    },
+    {
+      "categoria":"iglesia",
+      "name":"Iglesia Lomas Quebradas",
+      "latitude":19.319920,
+      "longitude": -99.237371
+    },
+    {
+      "categoria":"iglesia",
+      "name":"Iglesia La Profesa",
+      "latitude":19.434159,
+      "longitude": -99.136680
+    },
+    {
+      "categoria":"iglesia",
+      "name":"Iglesia Cuitláhuac",
+      "latitude":19.472981,
+      "longitude": -99.161546
+    }
+  ]
+
+}

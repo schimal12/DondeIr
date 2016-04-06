@@ -1,0 +1,32 @@
+{
+  "pois":[{
+    "categoria":"cines",
+    "name": "Cinemex Prado Coapa",
+    "latitude": 19.2858798,
+    "longitude": -99.1663565
+  }, {
+    "categoria":"cines",
+    "name": "Cinemex Tlalpan",
+    "latitude": 19.2860351,
+    "longitude": -99.1663565
+  },
+    {
+      "categoria":"cines",
+      "name": "Cinemex Izcalli",
+      "latitude": 19.4209663,
+      "longitude": -99.2226732
+    },
+    {
+      "categoria":"cines",
+      "name": "Cinemex Chalco",
+      "latitude": 19.4209663,
+      "longitude": -99.2226732
+    },
+    {
+      "categoria":"cines",
+      "name": "Cinemex Zumpango Centro",
+      "latitude": 19.7909555,
+      "longitude": -99.5028246
+    }
+  ]
+}

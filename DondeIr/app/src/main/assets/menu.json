@@ -1,0 +1,19 @@
+{
+  "menu":[{"nombre":"Parques", "archivo":"parques","color":""},
+    {"nombre":"Comida Italiana ", "archivo":"citaliana","color":},
+    {"nombre":"Cines: Cinepolos ", "archivo":"cinepolos","color":},
+    {"nombre":"Teatros ", "archivo":"teatros","color":},
+    {"nombre":"Librerías ", "archivo":"librerias","color":},
+    {"nombre":"Bibliotecas", "archivo":"bibliotecas","color":},
+    {"nombre":"Antros", "archivo":"antros","color":},
+    {"nombre":"Comida china ", "archivo":"cchina","color":},
+    {"nombre":"Gasolineras", "archivo":"gasolineras","color":},
+    {"nombre":"Cines: CineMetz", "archivo":"cinemetz","color":},
+    {"nombre":"Plazas comerciales", "archivo":"cplazas","color":},
+    {"nombre":"Comida japonesa", "archivo":"cjaponesa ","color":},
+    {"nombre":"Iglesias ", "archivo":"iglesias"},
+    {"nombre":"Tiendas de mascotas", "archivo":"mascotas","color":},
+    {"nombre":"Videojuegos", "archivo":"videojuegos","color":},
+    {"nombre":"Museos", "archivo":"museos","color":}
+  ]
+}

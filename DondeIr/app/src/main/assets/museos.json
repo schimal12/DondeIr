@@ -1,0 +1,40 @@
+{
+"pois":[{
+  "categoria":"museo",
+"name":"Museo de las Intervenciones",
+"latitude":19.3551669,
+"longitude":-99.1498625
+},
+{
+  "categoria":"museo",
+"name":"Museo del Juguete Antiguo Mexicano",
+"latitude":19.4153566,
+"longitude":-99.1466853
+},
+{
+  "categoria":"museo",
+"name":"Museo del templo Mayor",
+"latitude":19.4346088,
+"longitude":-99.1340697
+},
+{
+  "categoria":"museo",
+"name":"Museo Soumaya",
+"latitude":19.4406976,
+"longitude":-99.2068888
+},
+{
+  "categoria":"museo",
+"name":"Museo Universitario de Arte Contemporaneo",
+"latitude":19.3146535,
+"longitude":-99.1875876
+},
+{
+  "categoria":"museo",
+"name":"Museo Casa Estudio Diego Rivera y Frida Kahlo",
+"latitude":19.3496243,
+"longitude":-99.1996188
+}
+]
+}
+

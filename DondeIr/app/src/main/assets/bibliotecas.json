@@ -1,0 +1,28 @@
+{
+	"pois": [{
+	  	"categoria":"biblioteca",
+		"name": "Biblioteca Jose Vasconselos",
+		"latitude": 19.6127512,
+		"longitude": -99.1648737
+	},{
+	  	"categoria":"biblioteca",
+		"name": "Biblioteca Publica Ricardo Flores Magon",
+		"latitude": 19.6525935,
+		"longitude": -99.1128628
+	},{
+	  	"categoria":"biblioteca",
+		"name": "Biblioteca Sor Juana Ines de la Cruz",
+		"latitude": 19.3887022,
+		"longitude": -99.0069004
+	},{
+	  	"categoria":"biblioteca",
+		"name": "Biblioteca Digital Telmex",
+		"latitude": 19.3693689,
+		"longitude": -99.0491901
+	},{
+	  	"categoria":"biblioteca",
+		"name": "Biblioteca Principal",
+		"latitude": 19.3953254,
+		"longitude": -99.0911942
+	}]
+}

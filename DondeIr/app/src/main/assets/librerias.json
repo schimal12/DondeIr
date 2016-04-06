@@ -1,0 +1,29 @@
+{
+  "pois":[{
+    "categoria":"librerias",
+    "name":"Biblioteca Jose Vasconcelos",
+    "latitude":"19.4473532",
+    "longitude":"-99.1510275"
+  },
+    {
+      "categoria":"librerias",
+      "name":"Biblioteca Nacional de México",
+      "latitude":"19.3170445",
+      "longitude":"-99.1860818"
+    },{
+      "categoria":"librerias",
+      "name":"Biblioteca Nacional de la UNAM",
+      "latitude":"19.3333195",
+      "longitude":"-99.1895388"
+    },{
+      "categoria":"librerias",
+      "name":"Biblioteca Francisco Xavier Clavijeros",
+      "latitude":"19.3711022",
+      "longitude":"-99.2660981"
+    },{
+      "categoria":"librerias",
+      "name":"Archivo General de la Nacion",
+      "latitude":"19.4362681",
+      "longitude":"-99.1155195"
+    }]
+}

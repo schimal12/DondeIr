@@ -1,0 +1,33 @@
+{
+  "pois" : [{
+    "categoria":"videojuegos",
+    "name": "Gameplanet Acoxpa",
+    "latitude" : 19.2957145,
+    "longitude" : -99.136895
+  },
+    {
+      "categoria":"videojuegos",
+      "name": "Gameplanet Coapa",
+      "latitude" : 19.3027733,
+      "longitude" : -99.1253647
+    },
+    {
+      "categoria":"videojuegos",
+      "name": "Gameplanet Gran Sur",
+      "latitude" : 19.3076062,
+      "longitude" : -99.1667243
+    },
+    {
+      "categoria":"videojuegos",
+      "name": "Gameplanet Cuicuilco",
+      "latitude" : 19.2979923,
+      "longitude" : -99.1835049
+    },
+    {
+      "categoria":"videojuegos",
+      "name": "Gameplanet Perisur",
+      "latitude" : 19.3043726,
+      "longitude" : -99.1911602
+    }
+  ]
+}

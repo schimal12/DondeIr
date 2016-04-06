@@ -1,0 +1,34 @@
+{
+  "pois":[{
+    "categoria":"teatros",
+    "name" : "Centro Cultural Universitario",
+    "latitude" : 19.2858688,
+    "longitude" : -99.1663457
+  },
+    {
+      "categoria":"teatros",
+      "name" : "Teatro Rodolfo Usigli",
+      "latitude" : 19.2860242,
+      "longitude" : -99.1663457
+
+    },
+    {
+      "categoria":"teatros",
+      "name" : "TEATRO RAFAEL SOLANA",
+      "latitude" : 19.2861795,
+      "longitude" : -99.1663457
+
+    },
+    {
+      "categoria":"teatros",
+      "name": "CONJUNTO PELLICER Danza Regional",
+      "latitude": 19.2863349,
+      "longitude": -99.1663457
+    },
+    {
+      "categoria":"teatros",
+      "name": "Teatro Juan Ruiz de Alarcón",
+      "latitude": 19.2864903,
+      "longitude": -99.1663458
+    }]
+}

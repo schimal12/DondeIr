@@ -1,0 +1,31 @@
+{
+	"pois":[
+	{
+	  "categoria":"cchina",
+		"name": "Dynasty Chinese Food Express",
+		"latitude": "19.29749731",
+		"longitude": "-99.13686846"
+	},{
+		"categoria":"cchina",
+		"name": "Comida china",
+		"latitude": "32.54420995",
+		"longitude": "-116.93249842"
+	},{
+		"categoria":"cchina",
+		"name": "Comida china",
+		"latitude": "18.5188253",
+		"longitude": "-88.29383314"
+	},{
+		"categoria":"cchina",
+		"name": "Comida china",
+		"latitude": "19.60081728",
+		"longitude": "-102.47578701"
+	},{
+		"categoria":"cchina",
+		"name": "Comida China",
+		"latitude": "17.99617052",
+		"longitude": "-92.91605365"
+	}
+	]
+
+}

@@ -1,0 +1,9 @@
+{
+  "pois":[
+    {"categoria":"mascota","name":"+Kota Acoxpa", "latitude":19.285781, "longitude":-99.1488464},
+    {"categoria":"mascota","name":"Pet Planet", "latitude":19.2858604, "longitude":-99.1488464},
+    {"categoria":"mascota","name":"El gran sabueso", "latitude":19.286019, "longitude":-99.1488464},
+    {"categoria":"mascota","name":"Maskota", "latitude":19.2824901, "longitude":-99.1915883},
+    {"categoria":"mascota","name":"Animal Shop", "latitude":19.344758, "longitude":-99.1507755}
+  ]
+}
